@@ -79,4 +79,10 @@ sudo systemctl restart apache2
 
 # 🌐 Open in browser:
 # http://localhost/myblog/
+# To Excute:
+chmod +x setup_blog.sh
+# Run It:
+./setup_blog.sh
+
+
 
